@@ -40,7 +40,7 @@ public class SearchForEdit extends JFrame implements ActionListener {
         panel1.add(header);
         this.add(panel1);
 
-        info = new JLabel("Update Donor Information");
+        info = new JLabel("Edit Donor Information");
         info.setPreferredSize(new Dimension(290, 35));
         info.setFont(new Font("Lato", Font.BOLD, 19));
         info.setForeground(Color.WHITE);
